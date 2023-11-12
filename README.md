@@ -1,5 +1,5 @@
 
-# OfferSearchTool
+# OfferSearchTool-Fetch Rewards Take Home Challenge
 
 OfferSearchTool is a command-line Python application designed to help users find promotional offers based on categories, brands, and retailers. Utilizing the FuzzyWuzzy library, it provides a robust search functionality that can handle approximate string matching, making the search experience intuitive and user-friendly.
 
@@ -7,7 +7,7 @@ OfferSearchTool is a command-line Python application designed to help users find
 
 - Fuzzy search on offers, brands, retailers, and categories.
 - Merged dataset approach for enriched search context.
-- Prioritization of category-based searches.
+- Optimization of category-based searches.
 - Command-line interface for easy use across different systems.
 
 ## Prerequisites
